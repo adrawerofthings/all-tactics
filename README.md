@@ -6,7 +6,7 @@ We started this series because we noticed a gap in what people were sharing onli
 
 Feel free to post or print these guides and share them with your people! And keep sending us stories of what's worked for you when it comes to convincing friends and family.
 
-By [@outer-space](github.com/outer-space) &amp; [@hongkonggong](https://github.com/hongkonggong)
+By [@outer-space](https://github.com/outer-space) &amp; [@hongkonggong](https://github.com/hongkonggong)
 
 ---
 
