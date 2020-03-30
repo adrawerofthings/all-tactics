@@ -3,5 +3,7 @@
 
 @import "{{ site.theme }}";
 
+header { padding: 0 1rem; }
 header > h1 { display: none; }
 header > p:first-of-type { display: none; }
+header > .view { text-align: center; margin-top: 1rem;}
