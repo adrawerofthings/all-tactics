@@ -1,6 +1,6 @@
 # #AllTactics Guide to Convince Your People to Stay Home
 
-**All Tactics for convincing people to take the coronavirus pandemic seriously are good tactics, especially if they are delivered with care, compassion &amp; humor 💫**
+*All Tactics for convincing people to take the coronavirus pandemic seriously are good tactics, especially if they are delivered with care, compassion &amp; humor 💫*
 
 We started this series because we noticed a gap in what people were sharing online – there was an abundance of graphs, flattened curves, and medical information but a dearth of ideas on how to talk to people who might be stressed out and not 100% rational.
 
