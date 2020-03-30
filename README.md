@@ -23,7 +23,7 @@ By [@outer-space](github.com/outer-space) &amp; [@hongkonggong](https://github.c
 ![Housemate guide image 9/10](Housemates/Housemates09.png)
 ![Housemate guide image 10/10](Housemates/Housemates10.png)
 
-For printing or posting, use [these higher resolution images](Housemates-print/).
+For printing or posting, use [these higher resolution images](https://github.com/hongkonggong/all-tactics/blob/master/Housemates-print).
 
 ---
 
@@ -40,7 +40,7 @@ For printing or posting, use [these higher resolution images](Housemates-print/)
 ![Elders guide image 9/10](Elders/Elders09.png)
 ![Elders guide image 10/10](Elders/Elders10.png)
 
-For printing or posting, use [these higher resolution images](Elders-print/).
+For printing or posting, use [these higher resolution images](https://github.com/hongkonggong/all-tactics/blob/master/Elders-print).
 
 ---
 
