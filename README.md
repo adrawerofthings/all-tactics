@@ -1,14 +1,12 @@
 # #AllTactics Guide to Convince Your People to Stay Home
 
-By [@outer-space](github.com/outer-space) &amp; [@hongkonggong](https://github.com/hongkonggong)
-
----
-
 **All Tactics for convincing people to take the coronavirus pandemic seriously are good tactics, especially if they are delivered with care, compassion &amp; humor 💫**
 
 We started this series because we noticed a gap in what people were sharing online – there was an abundance of graphs, flattened curves, and medical information but a dearth of ideas on how to talk to people who might be stressed out and not 100% rational.
 
 Feel free to post or print these guides and share them with your people! And keep sending us stories of what's worked for you when it comes to convincing friends and family.
+
+By [@outer-space](github.com/outer-space) &amp; [@hongkonggong](https://github.com/hongkonggong)
 
 ---
 
