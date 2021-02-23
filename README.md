@@ -4,7 +4,7 @@
 
 Feel free to post or print these guides and share them with your people! And keep sending us stories of what's worked for you when it comes to convincing friends and family.
 
-By [@outer-space](https://github.com/outer-space) &amp; [@hongkonggong](https://github.com/hongkonggong)
+By [@outer-space](https://github.com/outer-space) &amp; [@adrawerofthings](https://github.com/adrawerofthings)
 
 ---
 
@@ -21,7 +21,7 @@ By [@outer-space](https://github.com/outer-space) &amp; [@hongkonggong](https://
 ![Housemate guide image 9/10](Housemates/Housemates09.png)
 ![Housemate guide image 10/10](Housemates/Housemates10.png)
 
-For printing or posting, use [these higher resolution images](https://github.com/hongkonggong/all-tactics/blob/master/Housemates-print).
+For printing or posting, use [these higher resolution images](https://github.com/adrawerofthings/all-tactics/blob/master/Housemates-print).
 
 ---
 
@@ -38,7 +38,7 @@ For printing or posting, use [these higher resolution images](https://github.com
 ![Elders guide image 9/10](Elders/Elders09.png)
 ![Elders guide image 10/10](Elders/Elders10.png)
 
-For printing or posting, use [these higher resolution images](https://github.com/hongkonggong/all-tactics/blob/master/Elders-print).
+For printing or posting, use [these higher resolution images](https://github.com/adrawerofthings/all-tactics/blob/master/Elders-print).
 
 ---
 
